@@ -78,8 +78,6 @@ A project is never truly finished. Here's what's next:
 Found a bug? Have a project idea? Or just want to talk about how one acquires 98 medals? Get in touch\!
 
   * **Email:** [anuj.soni1403@gmail.com](mailto:anuj.soni1403@gmail.com)
-  * **LinkedIn:** [Your LinkedIn Profile URL]
-  * **GitHub:** [Your GitHub Profile URL]
 
 -----
 
